@@ -1,0 +1,1 @@
+Index.PACKAGES = {"playfair" : [{"class" : "playfair\/Coder.html", "name" : "playfair.Coder"}, {"case class" : "playfair\/CoderPair.html", "name" : "playfair.CoderPair"}, {"object" : "playfair\/Playfair$.html", "name" : "playfair.Playfair"}]};
